@@ -16,6 +16,7 @@
 
 ## Electronic
 - [PCB Trace Max Current Calculator](https://www.elektroda.com/calculators/trace-current-calculator-external)
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Pick and place machine or manual placing helper
 
 ## WEB Prototyping
 - [Figma](https://www.figma.com/)
